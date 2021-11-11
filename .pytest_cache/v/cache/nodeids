@@ -1,0 +1,11 @@
+[
+  "test_names.py::test_extract_family_name",
+  "test_names.py::test_extract_given_name",
+  "test_names.py::test_make_full_name",
+  "test_words.py::test_prefix",
+  "test_words.py::test_suffix",
+  "tests/test_chemistry_2.py::test_compute_molar_mass",
+  "tests/test_chemistry_2.py::test_make_periodic_table",
+  "tests/test_chemistry_2.py::test_parse_formula",
+  "tests/test_students.py::test_read_dict"
+]
