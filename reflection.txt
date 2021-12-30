@@ -1,0 +1,48 @@
+Please take a few minutes to reflect on your experience in CSE 111 and
+think about the challenges, successes, and all that you've learned
+along the way.
+
+
+Now, please respond thoroughly (1 - 2 paragraphs for each question) to
+the following questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+Even though I didn't understand it all I was able to see the power of tkinter. The first project that we did
+was drawing a scene using loops and different colored pixels. I created a mountain forrest scene but 
+it was also cool to see all the scenes were presented by different people in class. You could really see the
+creativity and diversity of people but it still all stemmed from one module.
+
+Then as people were working on their final projects, I heard and saw other projects that were using tkinter in
+cool ways. One person at my table talked about using the module to display rolling and landing dice for a game.
+It has a little learning curve for sure but if you can master tkinter you can write many applicable and 
+useful programs.
+
+
+2. In your judgment, what is the value of test functions?
+
+Functions obiously don't do their job if they have bugs and errors in them. When you write a function,
+usually you mentally write it so that if certain perameters are changed it still works. But just
+like the reason you write comments in code, you want your functions to always work and easily
+adapt to code in the future.
+
+Test functions allow you to have a seperate file where you can write in depth scenarios that cover
+many differnt ways the function can be performed. This allows you and future programmers to see how the
+function works and the tests can be modified to fit how the function needs to work. If for whatever reason
+the program doesn't work, you can see exactly where it might fail and why. 
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+When I write a program I usually think of different ways it needs to work and what a user might use it.
+I like writing if/else statements to fit all possibilities of an input. When I finish a function that I think
+is done, I start the program and see if it works. If it doesn't the terminal usually tells you what line
+the program fails at.
+
+I go back to the function and try to rewrite the syntax or logical error that may have occured. Sometimes when
+I get really stumped, I run the code through a debugger to see if all the values are being passed when and how
+they should. I think for the most part this process works okay, I know that if I write big programs in the 
+future it will be good to write good comments and test files to check my work as I write. They don't
+need to be super complecated but at least it will be something to rely on should anything fail.

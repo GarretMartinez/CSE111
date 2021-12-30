@@ -1,3 +1,4 @@
 {
+  "tests/test_products.py::test_read_products": true,
   "tests/test_students.py::test_read_dict": true
 }

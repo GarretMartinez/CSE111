@@ -4,8 +4,10 @@
   "test_names.py::test_make_full_name",
   "test_words.py::test_prefix",
   "test_words.py::test_suffix",
+  "tests/test_add_area_code.py::test_add_area_code",
   "tests/test_chemistry_2.py::test_compute_molar_mass",
   "tests/test_chemistry_2.py::test_make_periodic_table",
   "tests/test_chemistry_2.py::test_parse_formula",
+  "tests/test_products.py::test_read_products",
   "tests/test_students.py::test_read_dict"
 ]
